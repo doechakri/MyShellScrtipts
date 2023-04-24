@@ -1,1 +1,2 @@
-# MyShellScrtipts
+# MyShellScripts
+# my first shell script
